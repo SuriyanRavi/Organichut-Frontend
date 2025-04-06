@@ -150,7 +150,7 @@ body{
 #hero{
     /* background-color: #90bc79; */
     background-color: #66bb37;
-    background-image:url(../Image/bg.png);
+    background-image:url(bg.png);
     background-position: center;
     background-size: cover;
     height: 90vh;
